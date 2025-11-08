@@ -1,10 +1,9 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=porramb/Practica10MSF)
+
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
-
-## Información del estudiante
-
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+## Infromación del estudiante
+Porfirio Emmanuel Ramirez Barajas \[22211763]; l22211763@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +41,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Regeneracion de globulos rojos; modelo matematico; EPO; Eritroprocitos, Casos;
 
 ## Lista de archivos incluidos en el repositorio
 
